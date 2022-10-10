@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC44Aa6b3D417dd135bdfB04d71329b3ea2EE72a3",
+  "SCAN_LINK": "https://etherscan.io/token/0xc44aa6b3d417dd135bdfb04d71329b3ea2ee72a3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ESPAVO",
+  "SYMBOL": "PAVO",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 195000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/espavo",
+  "SHOW_BACKGROUND": true
+}
